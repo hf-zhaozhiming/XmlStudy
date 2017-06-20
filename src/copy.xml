@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Student_List>
+  <Student id="00001">
+    <name>李四</name>
+  </Student>
+  <Student>
+    <name></name>
+  </Student>
+</Student_List>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <student_list>
-<student id="001" name="zhangsan">
+<student id="001">
 <name>zhangs</name>
 <age>20</age>
 </student>
@@ -8,4 +8,8 @@
 <name>lis</name>
 <age>55</age>
 </student>
+	<student id="003">
+		<name>wangwu</name>
+		<age>222</age>
+	</student>
 </student_list>
